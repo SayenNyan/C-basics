@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson1HW5a
+namespace HW5a
 {
     // Соловьева Татьяна
 /*а) Написать программу, которая выводит на экран ваше имя, 
