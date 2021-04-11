@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson1._HW4b
+namespace HW4b
 {
     //Соловьева Татьяна
 /*Написать программу обмена значениями двух переменных:
