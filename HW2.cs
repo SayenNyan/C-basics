@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson1._HW2
+namespace HW2
 {
     //Соловьева Татьяна
 /*Ввести вес и рост человека. 
